@@ -40,7 +40,7 @@ Estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile (FCFM), en
 ### 📫 Contacto
 
 * **Email:** [martin.sepulveda.lagos.1@gmail.com](mailto:martin.sepulveda.lagos.1@gmail.com)
-* **LinkedIn:** Martín Sepúlveda Lagos &nbsp;|&nbsp; [ Ver perfil ↗ ](https://www.linkedin.com/in/mart%C3%ADn-sep%C3%BAlveda-lagos-713294390/)
+* **LinkedIn:** Martín Sepúlveda Lagos &nbsp;|&nbsp; [ Ver perfil ↗ ][(https://www.linkedin.com/in/mart%C3%ADn-sep%C3%BAlveda-lagos/)
 * **Ubicación:** Santiago, Chile
 
 ---
