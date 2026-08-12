@@ -6,7 +6,7 @@ Estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile (FCFM), en
 
 ---
 
-### 💻 Stack Tecnológico
+### Herramientas
 
 * **Lenguajes:** Python, MATLAB, SQL
 * **Machine Learning & Computer Vision:** PyTorch, Scikit-learn, OpenCV, XGBoost
@@ -15,7 +15,7 @@ Estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile (FCFM), en
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos
 
 * **Agente Conversacional para Retail** &nbsp;|&nbsp; [ Ver en GitHub ↗ ](https://github.com/toookki/ACME-Telegram-Assistant)
   * Agente en Telegram con búsqueda híbrida de productos (keywords + embeddings semánticos + filtros estructurados) y arquitectura RAG para minimizar alucinaciones.
@@ -31,7 +31,7 @@ Estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile (FCFM), en
 
 ---
 
-### 🔬 Investigación Actual
+### Investigación
 
 * **Aprendizaje Federado (Federated Learning):** Estudio e implementación de algoritmos distribuidos para el entrenamiento de modelos sobre datos descentralizados y privados, con enfoque en aplicaciones para **Medicina** y **Minería** (Predictive Analytics and Optimization Lab).
 
