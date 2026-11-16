@@ -1,17 +1,21 @@
 # ¡Hola! Soy Martín Sepúlveda Lagos
 
-### Estudiante de Ingeniería Civil Eléctrica | Machine Learning & Computer Vision
+### Estudiante de Ingeniería Civil Eléctrica | Machine Learning & Deep Learning
 
-Estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile (FCFM), enfocado en **Inteligencia Computacional** y **Machine Learning aplicado a procesos industriales y salud**. Cuento con experiencia desarrollando soluciones end-to-end: desde modelos de visión por computador para automatización en obra hasta sistemas de forecasting jerárquico de demanda. Actualmente investigo métodos de **Aprendizaje Federado (Federated Learning)** para datos descentralizados.
+Estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile (FCFM), especializado en **Inteligencia Computacional** y **Sistemas Eléctricos de Potencia**, con interés en aplicaciones de inteligencia artificial en industria, energía y salud.
+
+Cuento con experiencia desarrollando soluciones de **Machine Learning y Deep Learning**, incluyendo visión por computador, aprendizaje espaciotemporal con CNN-LSTM, forecasting jerárquico y sistemas basados en LLMs y RAG. Actualmente investigo métodos de **Aprendizaje Federado y Optimización Distribuida**, explorando ADMM para la toma de decisiones descentralizadas.
 
 ---
 
 ### Herramientas
 
 * **Lenguajes:** Python, MATLAB, SQL
-* **Machine Learning & Computer Vision:** PyTorch, Scikit-learn, OpenCV, XGBoost
+* **Machine Learning & Deep Learning:** PyTorch, Scikit-learn, XGBoost, OpenCV
+* **IA Generativa y LLMs:** LLMs, RAG, embeddings semánticos
 * **Análisis de Datos:** NumPy, Pandas, Matplotlib, Power BI
-* **Herramientas & Entornos:** Git, GitHub, Simulink, VS Code, Google Colab, LaTeX
+* **Optimización y Sistemas Eléctricos:** Gurobi Optimizer, DIgSILENT PowerFactory, SCADA, Simulink
+* **Herramientas y Entornos:** Git, GitHub, VS Code, Google Colab, LaTeX
 
 ---
 
@@ -33,7 +37,7 @@ Estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile (FCFM), en
 
 ### Investigación
 
-* **Aprendizaje Federado (Federated Learning):** Estudio e implementación de algoritmos distribuidos para el entrenamiento de modelos sobre datos descentralizados y privados, con enfoque en aplicaciones para **Medicina** y **Minería** (Predictive Analytics and Optimization Lab).
+* **Aprendizaje Federado y Optimización Distribuida:** Investigación de métodos de aprendizaje y toma de decisiones distribuidas mediante ADMM, con aplicaciones en **Medicina**, **Minería** y **Energía** (Predictive Analytics and Optimization Lab).
 
 ---
 
