@@ -44,7 +44,7 @@ Cuento con experiencia desarrollando soluciones de **Machine Learning y Deep Lea
 ### Contacto
 
 * **Email:** [martin.sepulveda.lagos.1@gmail.com](mailto:martin.sepulveda.lagos.1@gmail.com)
-* **LinkedIn:** Martín Sepúlveda Lagos &nbsp;|&nbsp; [Ver perfil ↗](https://www.linkedin.com/in/martin-sepulveda-lagos/)
+* **LinkedIn:** Martín Sepúlveda Lagos &nbsp;|&nbsp; [Ver perfil ↗](https://www.linkedin.com/in/maslf/)
 * **Ubicación:** Santiago, Chile
 
 ---
